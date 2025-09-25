@@ -1,2 +1,1 @@
-"# comprog1" 
-"# comprog1" 
+This is my first repo
